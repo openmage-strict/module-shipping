@@ -1,0 +1,5 @@
+src/app/code/core/Mage/Shipping/                                app/code/core/Mage/Shipping/
+src/app/design/frontend/base/default/layout/shipping.xml        app/design/frontend/base/default/layout/shipping.xml
+src/app/design/frontend/base/default/template/shipping/         app/design/frontend/base/default/template/shipping/
+src/app/etc/modules/Mage_Shipping.xml                           app/etc/modules/Mage_Shipping.xml
+src/app/locale/en_US/Mage_Shipping.csv                          app/locale/en_US/Mage_Shipping.csv

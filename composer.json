@@ -1,0 +1,11 @@
+{
+    "name": "openmage-strict/module-shipping",
+    "description": "Mage_Shipping",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-catalog": "*",
+        "openmage-strict/module-core": "*"
+    }
+}
