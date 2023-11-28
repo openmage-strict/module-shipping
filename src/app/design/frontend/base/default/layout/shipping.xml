@@ -19,7 +19,8 @@
 
     <shipping_tracking_ajax>
         <reference name="root">
-            <action method="setTemplate"><template></template></action>
+            <action method="setTemplate">
+                <template/></action>
         </reference>
         <reference name="content">
             <block type="shipping/tracking_ajax" name="shipping.tracking.ajax" template="shipping/tracking/ajax.phtml" />
